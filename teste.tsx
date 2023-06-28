@@ -1,3 +1,3 @@
 function Screen() {
-  return <div>Screen</div>
+  return <div>Screen 2</div>
 }
